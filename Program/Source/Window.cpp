@@ -3,6 +3,7 @@
 #include <iostream>
 
 #define GLFW_INCLUDE_NONE
+#define GLAD_GL_IMPLEMENTATION
 #include <GLFW/glfw3.h>
 #include <glad/gl.h>
 

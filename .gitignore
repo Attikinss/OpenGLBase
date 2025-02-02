@@ -11,10 +11,10 @@ Builds/
 
 # Typical suspects
 .vs/
-*.filters
-*.sln
+#*.filters
+#*.sln
 *.user
-*.vcxproj
+#*.vcxproj
 
 # Don't need to know what you've been up to
 .localhistory/
